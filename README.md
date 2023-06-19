@@ -1,0 +1,1 @@
+# FF-File-extension-renamer
